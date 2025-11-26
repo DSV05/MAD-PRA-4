@@ -14,6 +14,7 @@ Intent.getStringExtra(), Intent.putStringExtra(), MaterialCardView.
 
 **Output**:
 
-<img width="288" height="515" alt="Screenshot 2025-09-30 140929" src="https://github.com/user-attachments/assets/32862608-d01b-4fd4-9a64-60824008d3ed" />
+<img width="518" height="966" alt="image" src="https://github.com/user-attachments/assets/d6fa646d-e062-4b67-9615-a74e9d7a55b2" />
+
 
 
